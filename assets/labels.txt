@@ -1,0 +1,6 @@
+jeans
+sofa
+tShirt
+BallPoint
+Stapler
+calculator
